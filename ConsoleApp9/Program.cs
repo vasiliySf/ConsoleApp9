@@ -76,7 +76,7 @@ class OperationSort
                         select family;
             DisplayArray(query);
         }
-                
+       
     }
     
 
